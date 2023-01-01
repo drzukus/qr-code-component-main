@@ -77,7 +77,7 @@ body {
 
     display: grid;
     place-content: center;
-    margin: 1rem;
+    padding: 1rem;
 }
 
 .qr-card {
@@ -86,11 +86,7 @@ body {
 
     background-color: var(--clr-white);
     border-radius: 1rem;
-    overflow: hidden;
-    place-content: center;
 
-    display: grid;
-    place-content: center;
     max-width: 350px;
 }
 
